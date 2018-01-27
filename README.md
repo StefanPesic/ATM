@@ -1,8 +1,6 @@
 # Personal project 
 ATM (Automated teller machine)
 
-It started as a small program for a school assignment, but then i decided to add database functionality and other features.
-
 # Features
 - Login system
 - Withdraw money and deposit money
