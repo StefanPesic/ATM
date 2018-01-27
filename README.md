@@ -9,7 +9,8 @@ ATM (Automated teller machine)
 - Transfer money to another bank account
 
 # Start up 
-run the client.
+1.Start the solution
+2.Run the client file.
 
 # Used tools
 - C#
