@@ -8,7 +8,7 @@ ATM (Automated teller machine)
 - Change pincode
 - Transfer money to another bank account
 
-# Start up 
+# How to start
 1. Start the solution
 2. Run the client file.
 
