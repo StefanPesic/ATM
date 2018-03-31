@@ -14,7 +14,7 @@ Run the client file.
 # Type
 - Console application
 
-#Tools
+# Tools
 - Entity Framework
 - LINQ (Enumerable)
 - SQLite database
