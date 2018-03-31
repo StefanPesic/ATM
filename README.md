@@ -8,6 +8,8 @@ ATM (Automated teller machine)
 - Change pincode
 - Transfer money to another bank account
 
+![Screenshot](https://github.com/StefanPesic/ATM/blob/master/ATM.PNG)
+
 # How to start
 Run the client file.
 
