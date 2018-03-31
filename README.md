@@ -9,12 +9,12 @@ ATM (Automated teller machine)
 - Transfer money to another bank account
 
 # How to start
-1. Start the solution
-2. Run the client file.
+Run the client file.
 
-# Used tools
-- C#
-- .Net Core console application
+# Type
+- Console application
+
+#Tools
 - Entity Framework
-- LINQ
+- LINQ (Enumerable)
 - SQLite database
